@@ -10,7 +10,6 @@ for i in range(1,31):
 
 
 print(x)
-print('ok')
 
 def merge_sort(x,leq):
     le = len(x)
