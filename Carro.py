@@ -1,3 +1,4 @@
+print('ok')
 class Car:
 
     wheels = 4 #class variable

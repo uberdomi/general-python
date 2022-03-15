@@ -1,4 +1,5 @@
 # print("hello World")
+print('ok')
 import random
 import math
 import os

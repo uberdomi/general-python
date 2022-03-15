@@ -1,3 +1,4 @@
+print('ok')
 from abc import ABC, abstractmethod
 
 class A(ABC):
